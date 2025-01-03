@@ -1,0 +1,4 @@
+RORO公司組態版本控制
+1.HOSTS
+2.NETWORK FILE
+負責人:RORO
